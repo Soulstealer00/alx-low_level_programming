@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	printf("\nSize of a char: %u byte(s)", sizeof(char));
+	printf("Size of a char: %u byte(s)", sizeof(char));
 	printf("\nSize of an int: %u byte(s)", sizeof(int));
 	printf("\nSize of a long int: %u byte(s)", sizeof(long int));
 	printf("\nSize of a long long int: %u byte(s)", sizeof(long long int));
