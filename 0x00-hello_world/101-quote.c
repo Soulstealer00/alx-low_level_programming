@@ -3,7 +3,7 @@
 /**
  * Main - Entry point
  *
- * Description: Prints a memorable quote by Dora Korpar using the write function.
+ * Description:a C program that Prints a quote using the write function
  *
  * Return: 1 Not  success
 */
