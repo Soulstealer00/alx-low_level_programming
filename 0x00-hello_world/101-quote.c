@@ -3,7 +3,7 @@
 /**
  * Main - Entry point
  *
- * Description: Print a message using the write function
+ * Description: Prints a memorable quote by Dora Korpar using the write function.
  *
  * Return: 1 Not  success
 */
