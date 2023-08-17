@@ -6,7 +6,7 @@
  * Description:a C program that Prints a quote using the write function
  * write(int fd,const void *buf,size_t count)
  *
- * Return: 1 Not  success
+ * Return: 1 (error)
 */
 
 int main(void)
