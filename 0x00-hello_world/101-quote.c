@@ -3,7 +3,8 @@
 /**
  * Main - Entry point
  *
-	 * Description:a C program that Prints a quote using the write function
+ * Description:a C program that Prints a quote using the write function
+ * write(int fd,const void *buf,size_t count)
  *
  * Return: 1 Not  success
 */
